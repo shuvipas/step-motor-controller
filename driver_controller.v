@@ -1,4 +1,7 @@
 module driver_controller(
+	
+	
+	
                          input wire rst,
 								 input wire direction,//sw1: 0 for counter clockwise, 1 for clockwise 
 								 input wire step_size,//sw3: 0 for half a step, 1 for a full step 
