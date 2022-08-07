@@ -6,4 +6,5 @@ This project is part of an FPGA course at HUJI that I completed with Yosef Sokol
 4.	Support two operating modes: continuous operation, moving the motor a quarter turn with each button press.
 5.	Determine the size of the motor steps (whole or half step).
 6.	Reset the controller to 10 rpm, and stop the motor if it is in quarter turn mode. 
+
 The full instructions for the controller are in a file named “Lab#2_Step_Motor_Controller”. I added the lab report in Hebrew that includes test simulations and explanations of the code we wrote.
