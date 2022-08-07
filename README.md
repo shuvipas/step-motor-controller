@@ -1,2 +1,2 @@
 # step motor controller
-A FPGA project
+FPGA project to create a step motor contrller
